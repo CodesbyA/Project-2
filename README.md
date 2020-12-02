@@ -18,7 +18,18 @@ These handholds are visible to the player and the player has to avoid them to re
 - Invisible Covid Handholds:
 These handholds are invisible to the player and the player has to avoid them to reach the maximum height. Touching one may readuce your health or height you have climbed. 
 
+# Menu:
 
+The menu was created by importing an asset from the Asset Store. The actual asset is tailored for a RPG game. The following changes were made to the asset to make it compatible with our game: 
+
+- The Extras Section was removed from the actual menu. 
+- Settings menu was removed since it involved details regarding the RPG game. 
+- The audio on clicking the buttons has been changed. 
+- Background music has been edited out to suit the game. 
+- Since the buttons in the menu are co- related, the script was edited to make the functionality better suited to our game as deleting the buttons was not possible (created stagnant menu with no option to resume or exit game).
+- The theme was edited.
+
+![Image](https://codesbya.github.io/CS5331-Project-1/Outside.png)
 
 # Team Contribution:
 
