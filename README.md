@@ -29,7 +29,10 @@ The menu was created by importing an asset from the Asset Store. The actual asse
 - Since the buttons in the menu are co- related, the script was edited to make the functionality better suited to our game as deleting the buttons was not possible (created stagnant menu with no option to resume or exit game).
 - The theme was edited.
 
-![Image](Menu 2.JPG)
+![Image](https://github.com/CodesbyA/Project-2/blob/main/Menu%202.JPG)
+![Image](https://github.com/CodesbyA/Project-2/blob/main/Meu%201.JPG)
+![Image](https://github.com/CodesbyA/Project-2/blob/main/Menu%203.JPG)
+
 
 # Team Contribution:
 
