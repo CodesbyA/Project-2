@@ -11,7 +11,7 @@ The game is a simulation of climbing in which you have a certain energy to start
 
 # Team Contributions:
 
-Brian: Map
-Ajay: Menu
-Yuanxu: Handholds
+- Brian: Map
+- Ajay: Menu
+- Yuanxu: Handholds
 
